@@ -50,7 +50,8 @@ Market Share: Assess your share of loyalty members in the broader market.
 Predictive Modeling: Use predictive models to forecast future trends in customer behavior, such as likelihood to churn or upgrade to a higher tier.
 What-If Scenarios: Simulate different scenarios, such as changes in the points system or introduction of new benefits, to understand potential impacts.
 
-![image](https://github.com/user-attachments/assets/7b372b61-470e-40ef-8569-192f9d2a434f)
+![image](https://github.com/user-attachments/assets/603352c1-28da-4254-a953-2792fb0e60e2)
+
 
 "By examining the chart of customer salary by province, we can predict CLV trends, where higher average salaries may correlate with increased customer lifetime value. This insight enables targeted efforts to optimize offerings in provinces with higher earning potential."
 
