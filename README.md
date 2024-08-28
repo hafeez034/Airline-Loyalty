@@ -41,11 +41,21 @@ Upsell/Cross-sell: Measure the success of cross-selling other services (e.g., up
 Benchmarking: Compare your airline’s loyalty program performance against industry standards or competitors.
 Market Share: Assess your share of loyalty members in the broader market.
 
-9. Predictive Analytics:
+![image](https://github.com/user-attachments/assets/0ab92dbd-6f90-43ca-b671-cc8e882b4fdd)
+
+"By comparing CLV across various provinces, we can identify regions with the highest customer value and prioritize targeted marketing efforts. Provinces with lower CLV may require strategies to enhance customer retention and increase overall profitability."
+
+
+10. Predictive Analytics:
 Predictive Modeling: Use predictive models to forecast future trends in customer behavior, such as likelihood to churn or upgrade to a higher tier.
 What-If Scenarios: Simulate different scenarios, such as changes in the points system or introduction of new benefits, to understand potential impacts.
 
-10. Visualization and Interactivity:
+![image](https://github.com/user-attachments/assets/7b372b61-470e-40ef-8569-192f9d2a434f)
+
+"By examining the chart of customer salary by province, we can predict CLV trends, where higher average salaries may correlate with increased customer lifetime value. This insight enables targeted efforts to optimize offerings in provinces with higher earning potential."
+
+
+12. Visualization and Interactivity:
 Use various Power BI visualizations like bar charts, pie charts, line graphs, and heat maps to make the data easily understandable.
 Include interactive filters and slicers so users can drill down into specific segments or time periods.
 Data Sources:
