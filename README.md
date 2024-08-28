@@ -5,7 +5,7 @@ Creating a Power BI dashboard to analyze airline loyalty programs can provide va
 
 1. Customer Segmentation:
 
-Demographics: Age, gender, location, etc.
+ Demographics: Age, gender, location, etc.
 
 Membership Tier: 
 Analysis based on different tiers (Star, Nova,Aura)
